@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Yunho Action to Answer PC (Z Version)",
+    "category": "Photocard",
+    "group": "ATEEZ",
+    "member": "Yunho",
+    "origin": "Album PC",
+    "era": "Treasure Epilogue: Action to Answer",
+    "store": "",
+    "price": 10,
+    "condition": "Like new",
+    "description": "Popcorn Sleeved. \nStored in a dry room. \nStored for display, not used.",
+    "image": "https://biasroomcdn.com/watermarked/cmh7kt08g000rl404b74snwmp-front-1779175156975.webp",
+    "source": "https://biasroom.com/browse?modal=photocard&id=cmh7kt08g000rl404b74snwmp",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "title": "Jungkook Golden Album PC",
+    "group": "BTS",
+    "member": "Jungkook",
+    "origin": "Album PC",
+    "era": "Golden",
+    "store": "",
+    "category": "Photocard",
+    "price": 7,
+    "condition": "Good",
+    "description": "Example listing — replace with your own item.",
+    "image": "",
+    "source": "",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "title": "Mingyu Broadcast PC",
+    "group": "SEVENTEEN",
+    "member": "Mingyu",
+    "origin": "Broadcast",
+    "era": "",
+    "store": "Music Show",
+    "category": "Photocard",
+    "price": 35,
+    "condition": "Like new",
+    "description": "Example listing — replace with your own item.",
+    "image": "",
+    "source": "",
+    "status": "active"
+  }
+]
